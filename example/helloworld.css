@@ -1,0 +1,25 @@
+/* helloworld.css */
+
+body {
+  margin: 0;
+  padding: 0;
+
+  color: #333;
+  background-color: #f0f0f0;
+
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 50px;
+
+  text-align: center;
+
+  color: #0073e6;
+}
+
+p {
+  text-align: center;
+
+  font-size: 18px;
+}
