@@ -1,8 +1,8 @@
-site_name: Lumos 文档
+site_name: plos-clan mkdocs 模板
 docs_dir: docs
-repo_name: plos-clan/Lumos
-repo_url: https://github.com/plos-clan/Lumos
-site_url: https://lumos.plos-clan.org
+repo_name: plos-clan/mkdocs-template
+repo_url: https://github.com/plos-clan/mkdocs-template
+site_url: https://mkdocs.plos-clan.org
 
 copyright: Copyright &copy; 2024 copi143
 
