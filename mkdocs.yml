@@ -72,6 +72,7 @@ markdown_extensions:
   - codehilite: # 代码高亮
       guess_lang: false # 不猜测语言
       use_pygments: true
+  - scripts.text_align_extension
   - scripts.column_extension
   - scripts.hidden_content_extension # ??隐藏内容??
 

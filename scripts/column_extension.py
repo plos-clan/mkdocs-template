@@ -50,7 +50,7 @@ class ColumnPreprocessor(Preprocessor):
 class ColumnInlineProcessor(InlineProcessor):
 
   def __init__(self):
-    super().__init__(r'^\s*::(.*?)::\s*$')
+    super().__init__(r'^\s*::(.*?::.*?)::\s*$')
 
   def handleMatch(self, m, data):
     el = etree.Element('div')
